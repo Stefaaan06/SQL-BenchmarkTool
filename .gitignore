@@ -1,0 +1,5 @@
+# ignore idea and compilation files
+
+.idea/
+out/
+
