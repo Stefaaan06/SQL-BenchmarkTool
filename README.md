@@ -1,6 +1,7 @@
 # SQL-BenchmarkTool
 
-A Java tool to benchmark an Oracle SQL server. 
+A Java tool to benchmark an Oracle SQL server. Feel free to us the scripts, but credit me under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 [Methods Used](https://blogs.oracle.com/authors/tom-kyte)
 
 
